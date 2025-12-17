@@ -9,4 +9,4 @@ This repository contains a university coursework project completed for a Big Dat
 The notebook demonstrates basic big data analytics techniques covered in the course, including data cleaning, descriptive statistics, and exploratory data analysis using visualisations. The focus of this project is on understanding fundamental concepts rather than building production-level systems.
 
 
-پ
+
